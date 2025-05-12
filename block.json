@@ -1,0 +1,14 @@
+{
+  "apiVersion": 2,
+  "name": "tangible/uploads-block",
+  "title": "Tangible Uploads",
+  "category": "widgets",
+  "icon": "media-document",
+  "editorScript": "file:./index.js",
+  "attributes": {
+    "url": {
+      "type": "string",
+      "default": ""
+    }
+  }
+}
